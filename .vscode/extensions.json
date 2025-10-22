@@ -1,0 +1,10 @@
+{
+  // Recommended extensions for this workspace
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ritwickdey.LiveServer"
+  ]
+}
